@@ -46,3 +46,14 @@ We trained the model using the [Face Expression Recognition Dataset](https://www
 - **Jinja2** → Template rendering for Flask (displaying results dynamically)
 
 ---
+## 🖼️ Output Screenshots  
+
+### 🤖 Prediction Result (Happy):  
+![Happy Result](happy.png)  
+
+### 😢 Prediction Result (Sad):  
+![Sad Result](sad.png)  
+
+### 😡 Prediction Result (Angry):  
+![Angry Result](angry.png)  
+
